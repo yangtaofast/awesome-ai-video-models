@@ -160,6 +160,7 @@ Don't trust a maker's own demo reel — check independent evals before committin
 Aggregators that expose many of the above behind one API/key:
 
 - **[MuAPI](https://muapi.ai)** — unified API across image + video models (Kling, Veo, Seedance, Hailuo, Wan, and more), one key, one billing
+- **[Sora2 Hub](https://sora2hub.org)** — web app (no public API) that runs Veo 3.1, Kling 3.0, Seedance 2.0, Hailuo and Nano Banana Pro on one credit balance
 
 Native APIs (single-vendor): Google Gemini (Veo), OpenAI (Sora), Runway, Luma, Pika, MiniMax.
 
